@@ -1,6 +1,6 @@
+<!--
 ## Hi there 👋
 
-<!--
 <img width="1024" height="1536" alt="devsloth" src="https://github.com/user-attachments/assets/9f1309dd-2ee3-49b8-b9e9-4b3a8779f306" />
 -->
 
